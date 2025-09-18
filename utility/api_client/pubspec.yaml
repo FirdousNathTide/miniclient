@@ -1,0 +1,17 @@
+name: api_client
+description: Marvel API client
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ^3.8.1
+
+resolution: workspace
+
+dev_dependencies:
+  barrel_files:
+  build_runner:
+  injectable_generator:
+  json_serializable:
+  retrofit_generator:
+

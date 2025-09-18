@@ -1,0 +1,16 @@
+name: tide_design_system
+description: Design system
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.8.1
+
+resolution: workspace
+
+flutter:
+  uses-material-design: true
+
+dev_dependencies:
+  barrel_files:
+  build_runner:

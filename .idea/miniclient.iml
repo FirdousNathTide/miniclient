@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/miniclient/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/miniclient/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/miniclient/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/api_client/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/api_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/api_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_analysis/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_analysis/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_analysis/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/lib/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/lib/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_design_system/lib/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_di/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_di/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_di/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_monitoring/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_monitoring/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_monitoring/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_prelude/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_prelude/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/tide_prelude/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_characters/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_characters/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_characters/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/lib/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/lib/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feature/marvel_details/lib/build" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/feature_flow/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/feature_flow/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/utility/feature_flow/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>

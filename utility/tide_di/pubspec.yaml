@@ -1,0 +1,13 @@
+name: tide_di
+description: Tide's dependency injection mechanism
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.8.1
+
+resolution: workspace
+
+dev_dependencies:
+  barrel_files:
+  build_runner:

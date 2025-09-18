@@ -1,0 +1,10 @@
+name: tide_prelude
+description: Foundation components
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.8.1
+
+resolution: workspace
+

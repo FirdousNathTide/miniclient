@@ -1,0 +1,13 @@
+name: feature_flow
+description: Miniclient Feature Flow
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ^3.8.1
+
+resolution: workspace
+
+dev_dependencies:
+  barrel_files:
+  build_runner:
